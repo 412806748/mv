@@ -1,0 +1,1 @@
+include ':app', ':library_base', ':library_common', ':library_network', ':library_servicemanager', ':library_video', ':module_community', ':module_home', ':module_main', ':module_more', ':module_player', ':module_user'
